@@ -1,6 +1,7 @@
 # NDK
 Android apk 增量更新，结合NDK自己编译so类库
 编译so类库需要关注的点：
+\n
 1，CMakeLists.txt
 add_library( # Sets the name of the library.
              apkpatch-lib
